@@ -1,7 +1,9 @@
 # GOLANG
 
 ## GIN EXAMPLE - with Restful, DDD, CQRS, Event Sourcing, Auth(Casbin), etc.
-
+- [awesome-go-education/ddd/](https://mehdihadeli.github.io/awesome-go-education/ddd/)
+- [ExcitingFrog/go-pangu](https://github.com/ExcitingFrog/go-pangu): 感覺較新手向 -> Ginkgo -> BDD
+- [percybolmer/ddd-go](https://github.com/percybolmer/ddd-go) -> 相較簡單實現的 DDD
 - [Depado/gin-auth-example](https://github.com/Depado/gin-auth-example)
 - [herusdianto/gorm_crud_example](https://github.com/herusdianto/gorm_crud_example)
 - [linzhengen/ddd-gin-admin](https://github.com/linzhengen/ddd-gin-admin)
